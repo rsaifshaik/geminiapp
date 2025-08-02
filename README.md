@@ -1,16 +1,32 @@
-# geminiapp
+# 🤖 Gemini Chat App (Flutter + Gemini API)
 
-A new Flutter project.
+This is a sleek Flutter-based chat application that connects to **Google's Gemini (Generative AI)** using the `gemini-2.0-flash` model via HTTP requests. Users can chat with the AI in real-time and receive smart responses using Google’s powerful generative model.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔹 Real-time chat with Google Gemini AI
+- 💬 Message bubbles for user and AI messages
+- 🔄 Auto-scroll to latest message
+- ✅ Modular architecture with service and model separation
+- 💡 Simple and beginner-friendly UI design
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+
+### 🔧 Prerequisites
+
+- Flutter SDK installed (3.x recommended)
+- Android Studio / VS Code
+- Google Gemini API key (from https://ai.google.dev/)
+
+---
+
+### 🔨 Setup Instructions
+
+1. **Clone the Repository**
+```bash
+git clone https://github.com/rsaifshaik/geminiapp.git
+cd geminiapp
